@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tylenol Website</title>
+</head>
+<body>
+    <header>
+        <h1>Tylenol Website</h1>
+    </header>
+    <nav>
+        <a href="#about">About Tylenol</a>
+        <a href="#products">Products</a>
+        <a href="#contact">Contact Us</a>
+    </nav>
+    <section id="about">
+        <h2>About Tylenol</h2>
+        <p>Tylenol is a brand of over-the-counter pain relievers containing acetaminophen, manufactured by Johnson & Johnson.</p>
+        <p>It is commonly used to relieve pain and reduce fever.</p>
+    </section>
+    <section id="products">
+        <h2>Benefits</h2>
+        <ul>
+            <li>Pain Reliever</li>
+            <li>Kills Viruses in your body</li>
+            <li>Alleviates Body Pain</li>
+            <li>Relieves headache</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Clouds Information</h2>
+        <p>If you have any questions or concerns, please contact us at</p>
+        <p>Email: aaronisgay@gay.com</p>
+        <p>Phone: 1-800-TYLENOL</p>
+    </section>
+</body>
+</html>
