@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tylenol Website</title>
+</head>
+<body>
+    </section>
+    <section id="health-resources">
+        <h2>Health Resources</h2>
+        <p>Here are some helpful health resources related to pain management and fever:</p>
+        <ul>
+            <li><a href="https://www.cdc.gov/acute-pain/index.html" target="_blank">CDC - Acute Pain</a></li>
+            <li><a href="https://www.mayoclinic.org/symptoms/fever/basics/definition/sym-20050930" target="_blank">Mayo Clinic - Fever</a></li>
+            <li><a href="https://www.webmd.com/pain-management/guide/pain-relievers" target="_blank">WebMD - Pain Relievers</a></li>
+</body>
+</html>
