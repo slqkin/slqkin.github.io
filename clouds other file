@@ -1,1 +1,28 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tylenol Ingredients</title>
+</head>
+<body>
+    <h1>Tylenol Ingredients</h1>
+    <p>Active Ingredient: Acetaminophen</p>
+    <p>Other Ingredients:</p>
+    <ul>
+        <li>croscarmellose sodium</li>
+        <li>crospovidone</li>
+        <li>povidone</li>
+        <li>pregelatinized starch</li>
+        <li>stearic acid</li>
+        <li>FD&C red no. 40 aluminum lake</li>
+        <li>hypromellose</li>
+        <li>magnesium stearate</li>
+        <li>microcrystalline cellulose</li>
+        <li>polyethylene glycol</li>
+        <li>polysorbate 80</li>
+        <li>titanium dioxide</li>
+        <li>triacetin</li>
+    </ul>
+</body>
+</html>
